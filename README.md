@@ -1,6 +1,6 @@
 # Ploy-Board-Game
 
-This project is the result of a university assignment to develop a bot for the game Ploy. The assignment also included quality control aspects, including testing and metrics.
+This project is the result of a university assignment to develop a bot for the game Ploy using the Haskell programming language. The assignment also included quality control aspects, including testing and metrics.
 
 # Start server
 - to run the server, you need python3
